@@ -89,3 +89,48 @@ button {
     margin: auto 10px;
     font-size: 14px;
 }
+
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 20px;
+        background-color: #fff;
+    }
+
+
+    .container {
+        width: 100%;
+        height: 100%;
+        background-color: #fff;
+        font-size: 1.2em;
+        line-height: 1.5;
+        position: relative;
+        overflow: hidden;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    label {
+        font-size: 18px;
+    }
+
+    button {
+        font-size: 18px;
+    }
+
+    .mainp {
+        font-size: 18px;
+    }
+
+    .CopyRights {
+        text-align: center;
+        margin: auto 10px;
+        font-size: 10px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+    
+}
