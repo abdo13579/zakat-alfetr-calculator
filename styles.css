@@ -14,7 +14,6 @@ body {
     margin: 0;
     background-color: #d6fcff;
     font-family: 'Tajawal', 'Arial', sans-serif;
-
 }
 
 .container {
@@ -90,12 +89,23 @@ button {
     font-size: 14px;
 }
 
+img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 10px;
+    right: 1%;
+}
+
 @media only screen and (max-width: 768px) {
     body {
         font-size: 20px;
         background-color: #fff;
     }
 
+    img {
+        z-index: 1;
+    }
 
     .container {
         width: 100%;

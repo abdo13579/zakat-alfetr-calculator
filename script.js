@@ -15,7 +15,7 @@ document.getElementById("calculate").addEventListener("click", function() {
         "الأرز": 2,
         "القمح": 2.5,
         "التمر": 3,
-        "الزبيب": 1.850,
+        "الزبيب": 1.625,
         "الذرة": 2
     };
     
