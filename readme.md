@@ -25,7 +25,7 @@
 ## 📥 التثبيت
 1. قم باستنساخ المستودع:
    ```sh
-   git clone https://github.com/abdo13579/zakat-alfetr-calculator.git
+   git clone https://github.com/abdo13579/zakat-alfetr-calculator
    ```
 2. افتح `index.html` في متصفحك.
 
